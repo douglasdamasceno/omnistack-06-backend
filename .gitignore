@@ -4,8 +4,11 @@
 /.pnp
 .pnp.js
 
+temp/*
+!temp/.gitkepp
 # testing
 /coverage
+
 
 # production
 /build
